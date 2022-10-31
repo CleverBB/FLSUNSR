@@ -1,5 +1,2 @@
-# klipper_gonfig
-# klipper_gonfig
-# klipper_gonfig
-# FLSUNSR
-# FLSUNSR
+Flsun Super Racer / Default setup 
+add SR- Firmware
